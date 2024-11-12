@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: ashleymarcela/IS218_HW8:latest  # Change this to your DockerHub username and image name
+          tags: ashleymarcela/is218_hw8:latest  # Change this to your DockerHub username and image name
